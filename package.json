@@ -1,7 +1,8 @@
 {
-  "name": "vcr",
-  "version": "0.0.0",
+  "name": "coach-resources",
+  "version": "1.0.0",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
