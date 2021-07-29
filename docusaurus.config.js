@@ -5,8 +5,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Valor Coach Resources",
   tagline: "Dinosaurs are cool",
-  url: "https://valoresports.github.io/coach-resources",
-  baseUrl: "/",
+  url: "https://valoresports.github.io",
+  baseUrl: "/coach-resources/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
