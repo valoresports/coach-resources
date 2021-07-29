@@ -1,31 +1,37 @@
-# Adapted from https://evantay.com/blog/docusaurus-gh-action/
+name: build-and-deploy
 
-name: deploy-docusaurus
+#   if: ${{ github.event_name == 'push' }}
 
 on:
-  push:
-    branches: [main]
   pull_request:
+    branches: [main]
+  push:
     branches: [main]
 
   workflow_dispatch:
 
 jobs:
-  publish:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
+      - name: Check out
         uses: actions/checkout@v2
-      - name: Set up Node
+      - name: Install Node
         uses: actions/setup-node@v2
         with:
           node-version: "12"
-      - name: Build Docusaurus site
+      - name: Build site
         run: |
-          yarn install 
-          yarn build
-      - name: Deploy to GitHub Pages
-        if: success()
+          if [ -e yarn.lock ]; then
+            yarn install --frozen-lockfile
+          elif [ -e package-lock.json ]; then
+            npm ci
+          else
+            npm i
+          fi
+          npm run build
+      - name: Deploy site
+        if: ${{ success() && github.event_name == 'push' }}
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
