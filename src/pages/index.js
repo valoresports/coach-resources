@@ -58,6 +58,7 @@ export default function Home() {
             Miscellaneous Guides
           </Link>
         </div>
+        <br />
       </main>
     </Layout>
   );
