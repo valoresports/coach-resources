@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import ObsTemplatesList from "../../components/content-production/ObsTemplatesList";
 import ObsTemplatesListLoading from "../../components/content-production/ObsTemplatesListLoading";
 import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
 import styles from "./obs-templates.module.css";
 
 function ObsTemplates() {
@@ -31,6 +32,14 @@ function ObsTemplates() {
             templates={appState.templates}
           />
         </div>
+      </div>
+      <div className={styles.buttons}>
+        <Link
+          className="button button--secondary button--lg"
+          to="/docs/content-production/content-production"
+        >
+          Back to Content Production
+        </Link>
       </div>
     </Layout>
   );
