@@ -3,34 +3,46 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "My Site",
+  title: "Valor Coach Resources",
   tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://valoresports.github.io/coach-resources",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "valoresports",
+  projectName: "coach-resources",
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Coach Resources",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Valor Logo",
+        src: "img/logo.png",
       },
       items: [
         {
           type: "doc",
-          docId: "intro",
+          docId: "content-production/content-production",
           position: "left",
-          label: "Tutorial",
+          label: "Content Production",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
+          type: "doc",
+          docId: "live-coaching/live-coaching",
+          position: "left",
+          label: "Live Coaching",
+        },
+        {
+          type: "doc",
+          docId: "human-resources/human-resources",
+          position: "left",
+          label: "Human Resources",
+        },
+        {
+          type: "doc",
+          docId: "miscellaneous-guides/miscellaneous-guides",
+          position: "left",
+          label: "Miscellaneous Guides",
         },
       ],
     },
@@ -38,46 +50,20 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Other links",
           items: [
             {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
+              label: "Website",
+              to: "https://valoresports.com/",
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/valoresports/coach-resources",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Valor Esports Pty Ltd ABN 94 648 832 080. All rights reserved.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -90,15 +76,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
