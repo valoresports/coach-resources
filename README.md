@@ -23,3 +23,7 @@ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## License
+
+Copyright © 2021 Valor Esports Pty Ltd ABN 94 648 832 080. All rights reserved. Also see [LICENSE](https://github.com/valoresports/coach-resources/blob/main/LICENSE) file.

@@ -10,6 +10,10 @@ sidebar_position: 1
 
 To get started producing content, [make sure you are set up with OBS](setting-up-obs).
 
+## OBS Templates
+
+**Head to the [OBS Templates](/coach-resources/content-production/obs-templates/) page.**
+
 ## EWorkouts
 
 Read about the [EWorkout OBS scene collection](eworkouts/eworkouts-obs-scene-collection) and get started producing EWorkouts.

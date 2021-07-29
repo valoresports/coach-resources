@@ -1,0 +1,22 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.templatesTopContainer {
+  display: flex;
+  padding-top: 8vh;
+  padding-bottom: 8vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.templatesInnerContainer {
+  width: 80%;
+}
+
+.templatesTableCell {
+  padding: 1.5em;
+}
