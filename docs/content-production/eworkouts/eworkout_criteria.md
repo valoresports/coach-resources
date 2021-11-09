@@ -12,9 +12,9 @@ Each EWorkout should have a very clear purpose. Why are players drilling a certa
 
 :::
 
-- [ ] Does the EWorkout say what will be done?
-- [ ] Does the EWorkout say why it will be done?
-- [ ] Does the EWorkout say how it will be done?
+- Does the EWorkout say what will be done?
+- Does the EWorkout say why it will be done?
+- Does the EWorkout say how it will be done?
 
 ### EDrills each have a clear purpose and address a narrow, specific skill
 
@@ -24,8 +24,8 @@ An EDrill should have a clear purpose (as above), and allow users to understand 
 
 :::
 
-- [ ] Does the EDrill explain what will be done and why/how?
-- [ ] Does the EDrill focus on a single skill?
+- Does the EDrill explain what will be done and why/how?
+- Does the EDrill focus on a single skill?
 
 ### Ability to test users
 
@@ -35,9 +35,9 @@ EWorkouts should be able to test a user’s progress in the skill. There should 
 
 :::
 
-- [ ] Are there 3 levels of goals?
-- [ ] Are metrics assigned to each level?
-- [ ] Is there a time limit for each goal?
+- Are there 3 levels of goals?
+- Are metrics assigned to each level?
+- Is there a time limit for each goal?
 
 ### Highly structured
 
@@ -49,8 +49,8 @@ The structure above is not required to be followed, rather it serves as an examp
 
 :::
 
-- [ ] Are the sections (excluding breaks) of similar or equal intensity/length?
-- [ ] Is there a break for stretching, drinking water, and reflecting on what has been learned?
+- Are the sections (excluding breaks) of similar or equal intensity/length?
+- Is there a break for stretching, drinking water, and reflecting on what has been learned?
 
 ### Evidence-based
 
@@ -76,8 +76,8 @@ Concepts and exercises should be presented efficiently. Coaches should not be ex
 
 :::
 
-- [ ] Is speech clear and concise?
-- [ ] Does the presenter avoid hesitating during speech (eg. long pauses or “um”/”uhh”)?
+- Is speech clear and concise?
+- Does the presenter avoid hesitating during speech (eg. long pauses or “um”/”uhh”)?
 
 ### Consistent
 
@@ -93,7 +93,7 @@ Long term it might be useful to have a sort of ‘best practice’ list for each
 
 :::
 
-- [ ] Are footage and audio quality (and audio levels) consistent throughout?
+- Are footage and audio quality (and audio levels) consistent throughout?
 
 ### Emphasise warm-ups and breaks
 
@@ -103,7 +103,7 @@ Warming up properly and taking regular breaks are both key to approaching learni
 
 :::
 
-- [ ] Does the presenter emphasise the importance of breaks when training?
+- Does the presenter emphasise the importance of breaks when training?
 
 ### High production quality
 
@@ -113,4 +113,4 @@ The Valor Content Production OBS Templates should be used when recording an EWor
 
 :::
 
-- [ ] Were the Valor OBS templates used?
+- Were the Valor OBS templates used?
