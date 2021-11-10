@@ -10,6 +10,7 @@ sidebar_position: 1
 - Make sure you have the players' ranks ([more info](#ensure-you-have-ranks))
 - Ask for gameplay recordings and review them ([more info](#receive-and-review-gameplay-videos))
 - Know what lesson plan you will be using ([more info](#know-your-lesson-plan))
+- Ensure recording setup works ([more info](#test-recording-setup))
 
 ## Say hello
 
@@ -50,3 +51,13 @@ Know what lesson plan you will be using
 :::
 
 Plan your lesson according to the players' ranks and gameplay videos you have reviewed. Your first session may not be perfect, but by planning well you can make it as good as can be. After your first session, you can make tweaks and improve.
+
+## Test recording setup
+
+:::note To do
+
+Ensure recording setup works
+
+:::
+
+You need to ensure that OBS is set up correctly to record your session. If you need assistance with this, we can walk you through. We are currently working on a guide.
