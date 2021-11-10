@@ -6,10 +6,10 @@ sidebar_position: 1
 
 # Pre-Session Checklist
 
-- Introduce yourself to the team
-- Make sure you have the players' ranks
-- Ask for demo recordings (and review them)
-- Know what lesson plan you will be using
+- Introduce yourself to the team ([more info](#say-hello))
+- Make sure you have the players' ranks ([more info](#ensure-you-have-ranks))
+- Ask for gameplay recordings and review them ([more info](#receive-and-review-gameplay-videos))
+- Know what lesson plan you will be using ([more info](#know-your-lesson-plan))
 
 ## Say hello
 
@@ -31,11 +31,11 @@ Make sure you have the players' ranks
 
 At the moment these are manually provided to you by Valor's Support Staff. If you haven't received this information before you start your session, please reach out to the Support Staff.
 
-## Receive and review demos
+## Receive and review gameplay videos
 
 :::note To do
 
-Ask for demo recordings (and review them)
+Ask for gameplay recordings and review them
 
 :::
 
