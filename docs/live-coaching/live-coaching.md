@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Checklists
 
-- [Pre-Session Checklist](checklists/pre-session-checklist)
+- [Pre-Session Checklist](./checklists/pre-session-checklist)
 
 ## More to come
 
