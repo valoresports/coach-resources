@@ -8,3 +8,8 @@
   --ifm-color-primary-lightest: rgb(113, 187, 252);
   --ifm-code-font-size: 95%;
 }
+
+h2 > sup {
+  font-size: 0.45em;
+  font-weight: 500;
+}
