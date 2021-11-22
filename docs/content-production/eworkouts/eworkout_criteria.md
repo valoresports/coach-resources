@@ -29,6 +29,8 @@ An EDrill should have a clear purpose (as above), and allow users to understand 
 
 ### Ability to test users
 
+For more information, head to [the article on setting goals](setting-goals.md).
+
 :::info
 
 EWorkouts should be able to test a user’s progress in the skill. There should be goals for 3 levels of achievement (low/beginner, medium/intermediate, high/advanced) which can be used to gauge user skill level and track improvement over time.
