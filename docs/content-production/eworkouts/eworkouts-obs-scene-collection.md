@@ -67,7 +67,7 @@ Click on the `Valor logo` image source and when the `Image File` field appears u
 
 ![](./eworkouts-obs-scene-collection/ImportScenes-06.png)
 
-Browse to the location you extracted the ZIP file, and **open `Valor_logo.png`**. **You will need to repeat this for the `Valor gradient` and `Game backdrop` image sources**, although those files are in the `Backgrounds` folder. You can choose whichever game backdrop image you like, or use one of your own (_as long as it's community friendly of course_).
+Browse to the location you extracted the ZIP file, and **open `Valor_logo.png`**. **You will need to repeat this for the `Valor gradient` and `Game backdrop` image sources**, although those files are in the `Backgrounds` folder. You can choose whichever game backdrop image you like, or use one of your own (_so long as it's community friendly of course_).
 
 ![](./eworkouts-obs-scene-collection/ImportScenes-07.png)
 
