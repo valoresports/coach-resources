@@ -19,9 +19,9 @@ You should have been given access to add videos to the [Valor Esports Coaching S
 
 `[game]` should be **lower-case** and one of the following:
 
-- `rocket_league`
-- `cs_go`
-- `league_of_legends`
+- `rocket-league`
+- `cs-go`
+- `league-of-legends`
 - `valorant`
 
 ### Coach
