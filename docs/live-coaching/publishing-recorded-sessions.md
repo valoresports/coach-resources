@@ -7,7 +7,11 @@ sidebar_position: 3
 
 ## Uploading to YouTube
 
-You should have been given access to add videos to the [Valor Esports Coaching Sessions](https://www.youtube.com/channel/UCgeuWCs4UnAkUFeE5j15EHA) YouTube channel. More information will be added to this section soon.
+You should have been given access to add videos to the [Valor Esports Coaching Sessions](https://www.youtube.com/channel/UCgeuWCs4UnAkUFeE5j15EHA) YouTube channel. If you don't have access to this YouTube channel, please contact Nick or any other Valor leadership team member to fix this issue.
+
+**Click the image below for a tutorial on publishing recorded sessions to YouTube.**
+
+[![Tutorial on publishing recorded sessions to YouTube](https://img.youtube.com/vi/xyaacHkTqkw/0.jpg)](https://www.youtube.com/watch?v=xyaacHkTqkw)
 
 ## Naming scheme
 
