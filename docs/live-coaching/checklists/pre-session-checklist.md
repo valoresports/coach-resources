@@ -76,4 +76,4 @@ Ensure recording setup works
 
 :::
 
-You need to ensure that OBS is set up correctly to record your session. If you need assistance with this, we can walk you through. We are currently working on a guide.
+You need to [ensure that OBS is set up correctly to record your session](../../content-production/setting-up-obs.md). If you need assistance with this, we can walk you through. We are currently working on a more detailed guide.
