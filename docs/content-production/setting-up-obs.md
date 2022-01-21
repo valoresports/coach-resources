@@ -6,7 +6,13 @@ sidebar_position: 1
 
 ## Download and install OBS
 
-OBS Studio is free and open source software. You can download it from [https://obsproject.com/download](https://obsproject.com/download)
+OBS Studio is free and open source software. You can download it from [https://obsproject.com/download](https://obsproject.com/download).
+
+:::caution
+
+Please note that OBS Studio <u>is not Streamlabs OBS</u>, which is similar to OBS Studio but offers <u>less</u> options around bitrate. **If you choose to use Streamlabs OBS, you may end up with larger video files**.
+
+:::
 
 ## Configure recording output
 
