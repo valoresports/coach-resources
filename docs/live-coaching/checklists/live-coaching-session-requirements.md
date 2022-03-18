@@ -10,7 +10,7 @@ Last updated: 18 March 2022
 
 ## Non-Negotiables
 
-- [ ] Check in with the team 30 minutes before the session begins. We will accept as late as 15 minutes before the session, but do not be consistently late checking in.
+- [ ] Check in with the team 30 minutes before the session begins. We will accept as late as 15 minutes before the session, but do not be consistently late checking in. Say how many minutes until the session begins (ie. 25 minutes until session = "Hey guys, session in 25 mins. See you soon!").
 
 - [ ] Record the session.
 
