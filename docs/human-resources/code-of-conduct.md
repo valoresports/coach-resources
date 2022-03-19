@@ -19,7 +19,7 @@ Last updated: 18 March 2022
 
 1. If you are ten (10) or more minutes late to a live coaching session, this counts as not attending the session.
 
-1. We do not tolerate harmful or abusive behaviours. As a coach, you also should not tolerate harmful or abusive behaviours from players.
+1. We do not tolerate harmful or abusive behaviors. As a coach, you also should not tolerate harmful or abusive behaviors from (or between) players.
 
 1. Adopt responsible behaviour in relation to alcohol and other drugs. It goes without saying that you should not attend a meeting or a live coaching session when under the influence of drugs.
 
