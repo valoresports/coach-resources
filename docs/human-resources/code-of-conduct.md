@@ -1,8 +1,8 @@
-# Code of Conduct
+# Staff Code of Conduct
 
 Last updated: 18 March 2022
 
-1. We are customer-obsessed and want to make sure we deliver the best possible experiences to everyone.
+1. We are customer-obsessed and want to make sure we deliver the best possible experiences to everyone. Do not engage in behaviour that jeapordizes the ability of yourself or us to deliver high-quality experiences.
 
 1. You may undertake external work, so long as:
 
