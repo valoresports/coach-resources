@@ -3,7 +3,7 @@
 There are **five (5)** steps to the EDrill creation process.
 
 ## Stage 1: Plan
-1. The coach ensures the skill being addressed has an Esports Science Research Document completed.
+1. The coach ensures the skill being addressed has an [Esports Science Research Document](https://docs.google.com/document/d/1yS3qaKe2preUy3wI6g4o7yYpZe72xWcQ3U8jgGiRttI/edit) completed.
 1. The coach completes the [EDrill Planning Sheet](https://docs.google.com/document/d/1Zy8KCND1AkUxRaL7SAjWHxFyKP6ZAjsLp5uYvvftQZ0/edit).
 
 ## Stage 2: Plan Review
