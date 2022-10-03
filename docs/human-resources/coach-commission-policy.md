@@ -9,7 +9,7 @@ Last updated: 4 October 2022
    1. in the case of a new customer, converting from a free trial---ten per cent (10%) of the invoice amount (a **New Customer Commission**); and
    1. in the case of a repeat customer, who has been a paid customer before---five per cent (5%) of the invoice amount relating to the coach's game (a **Repeat Customer Commission**),
 
-both a **Commission** for the purposes of this policy.
+   both a **Commission** for the purposes of this policy.
 
 1. Repeat Customer Commissions are scoped to the game. For example, if _Customer A_ re-signs and purchases 50 hours of Rocket League coaching and 30 hours of Valorant coaching, then Coach RL would receive 5% of the amount relating to Rocket League and Coach Val would receive 5% of the amount relating to Valorant.
 
