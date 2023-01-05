@@ -7,7 +7,7 @@ There are **five (5)** steps to the Skill Intro creation process, which are deta
 After selecting the skill which the Skill Intro will apply to, you should:
 
 1. Sign in to the Valor platform: https://valoresports.com/sign-in
-2. Head to the Skill Intro "Kanban" Board: https://valoresports.com/content-creation/SKILL_INTRO/prepare_list
+2. Head to the Skill Intro "Kanban" Board: https://valoresports.com/content-creation/SKILL_INTRO/prepare/list
 3. Begin creating your Skill Intro, following this YouTube tutorial if help is needed: https://youtu.be/g0QCtLxJBYU
 
 :::important
