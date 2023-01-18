@@ -21,7 +21,7 @@ Valor will review your Skill Intro plan. If changes are needed Valor will reach 
 ## Stage 3: Record
 
 :::warning
-**Canva requires voiceover clips to be audio files, not video files**. For this reason we recommend recording your VO with [Audacity](https://audacity.org/). If you record your VO using OBS, make sure to convert it to an audio-only file (e.g. mp3) before uploading to Canva.
+**Canva requires voiceover clips to be audio files, not video files**. For this reason we recommend recording your VO with [Audacity](https://www.audacityteam.org/). If you record your VO using OBS, make sure to convert it to an audio-only file (e.g. mp3) before uploading to Canva.
 :::
 
 In this phase, you should:
