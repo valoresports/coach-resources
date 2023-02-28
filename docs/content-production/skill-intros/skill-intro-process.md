@@ -1,5 +1,7 @@
 # Skill Intro Process
 
+Skill Intros are a **fixed-price** deliverable. As at 28 February 2023, the price per Skill Intro delivered is USD 55.
+
 There are **five (5)** steps to the Skill Intro creation process, which are detailed below.
 
 ## Stage 1: Plan
