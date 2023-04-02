@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Setting up OBS
+# Setting up OBS Studio
 
 ## Download and install OBS
 
