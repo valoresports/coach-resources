@@ -34,7 +34,7 @@ After selecting the round/goal/point and skill(s) which your EAnalysis will appl
 1. Head to the [EAnalysis planning board](https://app.valoresports.com/content-creation/E_ANALYSIS/prepare/list).
 
 :::important
-Don't forget to write your answers as if you would say them out loud, and don't forget to plan your recordings. **If you forget to do these things your EAnalysis will be sent back for re-doing**.
+Don't forget to write your answers as if you would say them out loud, and don't forget to plan your recordings. **If you forget to do these things your EAnalysis _will_ be sent back for re-doing**.
 :::
 
 ### Stage 2: Plan Review
@@ -42,6 +42,10 @@ Don't forget to write your answers as if you would say them out loud, and don't 
 Valor will review your EAnalysis plan. If changes are needed Valor will reach out, otherwise once the EAnalysis is approved it will move to the next phase in the Valor platform.
 
 ### Stage 3: Record
+
+:::warning
+**Canva requires voiceover clips to be audio files, not video files**. For this reason we recommend recording your VO with [Audacity](https://www.audacityteam.org/). If you record your VO using OBS, make sure to convert it to an audio-only file (e.g. mp3) before uploading to Canva.
+:::
 
 In this phase, you should:
 

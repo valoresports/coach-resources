@@ -1,5 +1,5 @@
 ---
-title: Human Resources
+title: Valor HR
 sidebar_label: Home
 sidebar_position: 1
 ---

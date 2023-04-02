@@ -8,15 +8,12 @@ sidebar_position: 1
 
 ## Introduction
 
-To get started producing content, [make sure you are set up with OBS](setting-up-obs).
+Valor's training platform is all based on high-quality content.
 
-## OBS Templates
-
-**Head to the [OBS Templates](/coach-resources/content-production/obs-templates/) page.**
-
-## EWorkouts
-
-Read about the [EWorkout OBS scene collection](eworkouts/eworkouts-obs-scene-collection) and get started producing EWorkouts.
+Read more about individual types of content here:
+- [EDrills](edrill/creation-process.md)
+- [Skill Intros](skill-intro/creation-process.md)
+- [EAnalysis](eanalysis/content-design.md)
 
 ## More to come
 

@@ -33,7 +33,7 @@ For more information, head to [the article on setting goals](setting-goals.md).
 
 :::info
 
-EWorkouts should be able to test a user’s progress in the skill. There should be goals for 3 levels of achievement (low/beginner, medium/intermediate, high/advanced) which can be used to gauge user skill level and track improvement over time.
+EWorkouts should be able to test a user's progress in the skill. There should be goals for 3 levels of achievement (low/beginner, medium/intermediate, high/advanced) which can be used to gauge user skill level and track improvement over time.
 
 :::
 
@@ -45,9 +45,9 @@ EWorkouts should be able to test a user’s progress in the skill. There should 
 
 :::info
 
-EWorkouts generally comprise two parts. In the first part, there is an introduction, warm-up, and the first ‘half’ of the exercises. The first half is followed by a break where players reflect upon what they have learned. After the break, the second half finishes off the EWorkout’s exercises and concludes by wrapping up the drills.
+EWorkouts generally comprise two parts. In the first part, there is an introduction, warm-up, and the first 'half' of the exercises. The first half is followed by a break where players reflect upon what they have learned. After the break, the second half finishes off the EWorkout's exercises and concludes by wrapping up the drills.
 
-The structure above is not required to be followed, rather it serves as an example of a well-structured EWorkout. There is no issue with an EWorkout deviating from this ‘usual’ practice, however the end result should still feel balanced and well structured.
+The structure above is not required to be followed, rather it serves as an example of a well-structured EWorkout. There is no issue with an EWorkout deviating from this 'usual' practice, however the end result should still feel balanced and well structured.
 
 :::
 
@@ -58,7 +58,7 @@ The structure above is not required to be followed, rather it serves as an examp
 
 :::info
 
-EWorkouts should be well-researched before production. The methods used to ‘drill’ (practise) skills should be tried and true, or if they are newly developed (as esports ‘sport science’ is a new field) they should be documented.
+EWorkouts should be well-researched before production. The methods used to 'drill' (practise) skills should be tried and true, or if they are newly developed (as esports 'sport science' is a new field) they should be documented.
 
 :::
 
@@ -74,7 +74,7 @@ EWorkouts should be easy to understand. Coaches should avoid using ambiguous lan
 
 :::info
 
-Concepts and exercises should be presented efficiently. Coaches should not be extending duration by rambling or saying ‘um’ or ‘uhh’ in a high-quality EWorkout. As above the easiest way to achieve this is to prepare a script or at least a list of key points during pre-production.
+Concepts and exercises should be presented efficiently. Coaches should not be extending duration by rambling or saying 'um' or 'uhh' in a high-quality EWorkout. As above the easiest way to achieve this is to prepare a script or at least a list of key points during pre-production.
 
 :::
 
@@ -91,7 +91,7 @@ Throughout an EWorkout, concepts should be explained in similar ways, and audio 
 
 :::note
 
-Long term it might be useful to have a sort of ‘best practice’ list for each game. To minimise confusion we could have standardised ways of referring to concepts/scenarios which have many different names, plus standardised ways of explaining certain situations.
+Long term it might be useful to have a sort of 'best practice' list for each game. To minimise confusion we could have standardised ways of referring to concepts/scenarios which have many different names, plus standardised ways of explaining certain situations.
 
 :::
 
@@ -111,7 +111,7 @@ Warming up properly and taking regular breaks are both key to approaching learni
 
 :::info
 
-The Valor Content Production OBS Templates should be used when recording an EWorkout. Following the templates correctly will help to ensure the ‘highly structured’ criteria above is fulfilled.
+The Valor Content Production OBS Templates should be used when recording an EWorkout. Following the templates correctly will help to ensure the 'highly structured' criteria above is fulfilled.
 
 :::
 
