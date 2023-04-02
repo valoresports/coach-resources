@@ -16,7 +16,7 @@ After selecting the skill which the Skill Intro will apply to, you should:
 
 1. [Sign in](https://app.valoresports.com/sign-in) to the Valor platform.
 1. Head to the [Skill Intro planning board](https://app.valoresports.com/content-creation/SKILL_INTRO/prepare/list).
-2. Begin creating your Skill Intro, following [this YouTube tutorial](https://youtu.be/g0QCtLxJBYU) if help is needed.
+1. Begin creating your Skill Intro, following [this YouTube tutorial](https://youtu.be/g0QCtLxJBYU) if help is needed.
 
 :::important
 Don't forget to write your answers as if you would say them out loud, and don't forget to plan your recordings. **If you forget to do these things your, Skill Intro _will_ be sent back for re-doing**.
