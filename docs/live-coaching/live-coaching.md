@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Checklists
 
-- [Live Coaching Session Requirements](./checklists/live-coaching-session-requirements.md)
+- [Live Coaching Session Requirements](./live-coaching-session-requirements.md)
 
 ## More to come
 
