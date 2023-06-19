@@ -8,7 +8,7 @@ Training Plan is **not** a fixed-price deliverable. That means you manually reco
 
 ## Creation instructions
 
-There are **five (5)** steps to the Training Plan creation process, which are detailed below.
+There are **three (3)** steps to the Training Plan creation process, which are detailed below.
 
 ### Stage 1: Plan
 
