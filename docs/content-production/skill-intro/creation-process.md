@@ -50,10 +50,10 @@ In this phase, you should:
 If you have trouble accessing the _Valor Esports Content Library_ YouTube channel, please let Nick know and he will arrange access for you ASAP.
 :::
 
-## Stage 4: Recording Review
+### Stage 4: Recording Review
 
 Valor will review your Skill Intro video. If changes are needed Valor will reach out, otherwise once the Skill Intro is approved it will move to the final phase (Publication) in the Valor platform.
 
-## Stage 5: Publication
+### Stage 5: Publication
 
 The Skill Intro can now be published. This can be done by either Valor or yourself, so if you see a piece of content in "Publication" then feel free to push the green _Publish_ button yourself!
