@@ -15,11 +15,13 @@ There are **five (5)** steps to the Training Plan creation process, which are de
 After brainstorming the basic idea for your Training Plan, you should:
 
 1. [Sign in](https://app.valoresports.com/sign-in) to the Valor platform.
-2. Head to the [Training Plan planning board](https://app.valoresports.com/content-creation/TRAINING_PLAN/prepare/list).
-3. Begin creating your Training Plan, following [this YouTube tutorial](https://youtu.be/g0QCtLxJBYU) if help is needed.
+1. Head to the [Training Plan planning board](https://app.valoresports.com/content-creation/TRAINING_PLAN/prepare/list).
+1. Begin creating your Training Plan, following [this YouTube tutorial](https://youtu.be/gaYQB5UhRlE) if help is needed.
 
 :::important
-Don't forget to write your answers as if you would say them out loud, and don't forget to plan your recordings. **If you forget to do these things your, Training Plan _will_ be sent back for re-doing**.
+Here are the sample images:
+
+**Rocket League**: [Banner](sample-images/rl-banner.png), [Card](sample-images/rl-card.jpg)
 :::
 
 ### Stage 2: Plan Review
