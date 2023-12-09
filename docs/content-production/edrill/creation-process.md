@@ -4,7 +4,7 @@ title: Creation Process
 
 # Creation Process: EDrill
 
-EDrill is a **fixed-price** deliverable. As at 28 February 2023, the price per EDrill delivered is USD 40.
+EDrill is a **fixed-price** deliverable. As at 5 December 2023, the price per EDrill delivered is USD 30 and this also includes the delivery of a 'we do' video.
 
 ## Creation instructions
 
