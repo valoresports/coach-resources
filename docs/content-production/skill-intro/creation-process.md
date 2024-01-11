@@ -4,7 +4,7 @@ title: Creation Process
 
 # Creation Process: Skill Intro
 
-Skill Intro is a **fixed-price** deliverable. As at 28 February 2023, the price per Skill Intro delivered is USD 55.
+Skill Intro is a **fixed-price** deliverable. As at 1 January 2024, the price per Skill Intro delivered is USD 45.
 
 ## Creation instructions
 
