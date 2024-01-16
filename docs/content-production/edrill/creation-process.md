@@ -16,6 +16,7 @@ After selecting the skill which the EDrill will apply to, you should:
 
 1. [Sign in](https://app.valoresports.com/sign-in) to the Valor platform.
 1. Head to the [EDrill planning board](https://app.valoresports.com/content-creation/E_DRILL/prepare/list).
+1. Create a new EDrill and work through the planning process (see [example tutorial here](https://youtu.be/HoQfrHMHcaw)).
 
 :::important
 Don't forget to write your answers as if you would say them out loud, and don't forget to plan your recordings. **If you forget to do these things your EDrill _will_ be sent back for re-doing**.
@@ -38,16 +39,11 @@ In this phase, you should:
 1. Utilise a video editing program (or online tool such as [Canva](https://www.canva.com/)).
 1. Drop footage clips and voiceover file into your editing software.
 1. Once everything is assembled, export/download from your video editing software to an MP4 file.
-1. Upload your EAnalysis to the [_Valor Esports Content Library_ YouTube channel](https://studio.youtube.com/channel/UCuBq5lmGJjSH0Hi7H3vwA3w).
-1. Paste the link to the YouTube video into the Valor platform, **remembering to use the "embed" URL**.
-
-:::important
-If you have trouble accessing the _Valor Esports Content Library_ YouTube channel, please let Nick know and he will arrange access for you ASAP.
-:::
+1. Upload your EDrill to a Google Drive folder and let Nick know that you're finished and where the file can be found.
 
 ### Stage 4: Recording Review
 
-Valor will review your EDrill. If changes are needed Valor will reach out, otherwise once the EDrill is approved it will move to the final phase (Publication) in the Valor platform.
+Valor will review your EDrill. If changes are needed Valor will reach out, otherwise once the EDrill is approved it will be uploaded to Bunny (the video host Valor uses) and then move to the final phase (Publication) in the Valor platform.
 
 ### Stage 5: Publication
 
