@@ -1,0 +1,40 @@
+---
+sidebar_position: 1
+---
+
+# Setting up CapCut templates
+
+## Download and install CapCut
+
+CapCut is free; you can download it from [https://www.capcut.com/](https://www.capcut.com/).
+
+## Download Valor templates
+
+Download our templates for Skill Intro and EDrill production, and our general content resources pack, from the following links:
+- [EDrill template, v1.0](https://valoresports.github.io/coach-resources/content-production/capcut-templates/EDrill%20Template%20-%20v1.0.zip)
+- [Skill Intro template, v1.0](https://valoresports.github.io/coach-resources/content-production/capcut-templates/Skill%20Intro%20Template%20-%20v1.0.zip)
+- [Valor Content Resources Pack, v1.0](https://valoresports.github.io/coach-resources/content-production/capcut-templates/Valor%20Content%20Resources%20Pack%20-%20v1.0.zip)
+
+## Install templates
+
+### EDrill and Skill Intro templates
+
+Extract the EDrill and Skill Intro template ZIP files, and put them in the **following location**:
+
+```
+%LocalAppData%\CapCut\User Data\Projects\com.lveditor.draft
+```
+
+### Valor Content Resources Pack
+
+Extract the Valor Content Resources Pack somewhere you won't lose it, for example in your local **Documents** or **Videos** folder:
+
+```
+%UserProfile%\Documents
+```
+
+*or*
+
+```
+%UserProfile%\Videos
+```
